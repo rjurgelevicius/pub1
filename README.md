@@ -1,4 +1,4 @@
-# deva
+# devas
 
 ## Project setup
 ```
