@@ -22,6 +22,7 @@ export default Vue.extend({
 <style lang="scss">
 #app {
   text-align: center;
+  
 }
 
 
