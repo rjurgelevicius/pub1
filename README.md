@@ -1,4 +1,4 @@
-# Testx
+# Test
 
 ## Project setup
 ```
