@@ -1,4 +1,4 @@
-# devas a
+# This repository is intended just for testing purposes.
 
 ## Project setup
 ```
